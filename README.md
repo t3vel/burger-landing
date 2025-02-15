@@ -10,7 +10,7 @@ Burger Landing is a modern, stylish, and responsive landing page for a burger re
 
 ## 🚀 Демо (Live Demo)
 
-🔗 Переглянути демо
+🔗 [Переглянути демо](https://t3vel.github.io/burger-landing/)
 
 ## 🛠 Використані технології (Technologies Used)
 
